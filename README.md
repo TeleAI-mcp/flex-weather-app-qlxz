@@ -1,2 +1,3 @@
-# flex-weather-app-qlxz
-A weather forecasting application for modern development workflows
+# Flex Weather App Qlxz
+
+A weather forecasting application for modern development workflows.
